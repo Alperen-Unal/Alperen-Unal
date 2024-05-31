@@ -15,7 +15,7 @@ I am an MSc Data Science & AI student at Goldsmiths University of London. My pas
 [![Apache Mahout](https://img.shields.io/badge/Apache%20Mahout-00BFFF?style=for-the-badge&logo=apache-mahout&logoColor=white)](https://mahout.apache.org/)
 [![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![Matlab](https://img.shields.io/badge/Matlab-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)](https://www.mathworks.com/products/matlab.html)
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=nltk&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 
