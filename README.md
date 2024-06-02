@@ -18,6 +18,7 @@ I am an MSc Data Science & AI student at Goldsmiths University of London. My pas
 [![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 ![NLP](https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=nltk&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.kernel.org/)
 
 
 
