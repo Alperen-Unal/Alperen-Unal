@@ -28,7 +28,7 @@ Here are some of my key projects:
 - **[Classification Algorithms](https://github.com/Alperen-Unal/Fetal-Health-Multiclass-Classification)**: The Fetal Health Classification project leverages Cardiotocogram (CTG) data and advanced machine learning techniques to predict fetal health conditions, classifying them into Normal, Suspect, and Pathological categories.
 - **[Big Data Analysis](https://github.com/Alperen-Unal/US-births-2018-Predicting-Birth-Weight-with-PySpark/tree/main)**: This PySpark project comprehensively captures various demographic, health, and medical procedure variables related to childbirth to predict newborns' birth weight, a crucial marker for neonatal health and long-term outcomes.
 - **[RStudio Project](https://github.com/Alperen-Unal/OPTIMIZING-CREDIT-DEFAULT-PREDICTION-ENHANCING-FINANCIAL-SECURITY-THROUGH-ADVANCED-ANALYTICS)**: This R project aims to develop a predictive model to accurately identify potential credit card defaulters, prioritizing high recall to minimize financial losses for credit card issuers by effectively detecting defaulters.
-- **[NLP Project](https://github.com/Alperen-Unal/NLP-CW-Spam-SMS-Detector/tree/main)**: Utilising text analysis and model training to classify and filter spam SMS automatically
+- **[NLP Project](https://github.com/Alperen-Unal/NLP-CW-Spam-SMS-Detector/tree/main)**: Utilising text analysis and model training to classify and filter spam SMS automatically.
 
 
 ## Contact Me
