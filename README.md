@@ -24,7 +24,7 @@ I am an MSc Data Science & AI student at Goldsmiths University of London. My pas
 
 ## Machine Learning & AI Projects
 Here are some of my key projects:
-
+- **[Cryptocurrency Market Prediction](https://github.com/Alperen-Unal/Early-Detection-and-Prediction-of-Liquidation-Cascades-in-Cryptocurrency-Markets)**: This repository contains a master’s thesis focused on predicting Bitcoin futures prices with precise fluctuations using machine learning models. The study combines GARCH, HAR, and LSTM models, leveraging hourly data from 2021 to 2024. It aims to provide early warnings and mitigate investor losses. Please cite this work appropriately if used.
 - **[Predictive Modeling](https://github.com/Alperen-Unal/Infrared-Thermography-for-Fever-Detection-Using-Machine-Learning/tree/main)**: This project aims to design a Machine Learning application to predict oral temperature and fever status using data from infrared thermography, enhancing fever screening and monitoring. The project includes both regression and classification tasks.
 - **[Classification Algorithms](https://github.com/Alperen-Unal/Fetal-Health-Multiclass-Classification)**: The Fetal Health Classification project leverages Cardiotocogram (CTG) data and advanced machine learning techniques to predict fetal health conditions, classifying them into Normal, Suspect, and Pathological categories.
 - **[Big Data Analysis](https://github.com/Alperen-Unal/US-births-2018-Predicting-Birth-Weight-with-PySpark/tree/main)**: This PySpark project comprehensively captures various demographic, health, and medical procedure variables related to childbirth to predict newborns' birth weight, a crucial marker for neonatal health and long-term outcomes.
