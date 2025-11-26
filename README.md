@@ -3,7 +3,7 @@
 # Hi there, I am Alperen 👋 
 
 ## About Me
-I graduated with an MSc in Data Science & AI at Goldsmiths University of London. My passions are machine learning and neural networks. I love exploring new algorithms, working on challenging projects, and applying AI to solve real-world problems.
+I am an Associate Lecturer in the Department of Computing at Goldsmiths, University of London, and I hold an MSc in Data Science & AI from Goldsmiths. My main interests lie in machine learning and neural networks. I enjoy exploring new algorithms, working on challenging projects, and applying AI techniques to solve real-world problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Alperen-Unal&color=blue)
 
